@@ -40,3 +40,36 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
+---
+
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Danil767&theme=algolia" alt="" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Danil767&theme=algolia&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
