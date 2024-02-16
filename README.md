@@ -8,6 +8,7 @@
 - 💻 I create websites.
 - 🏀 I lead an active lifestyle and am fond of anime.
 
+[![codewars](https://www.codewars.com/users/Danil767/badges/small)](https://www.codewars.com/users/Danil767) 
 
 ### 🤝 Connect with me:
 
