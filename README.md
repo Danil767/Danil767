@@ -49,16 +49,11 @@
 
 ### ⚙️ GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Danil767&theme=algolia" alt="" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Danil767&theme=algolia&layout=compact" />
-    </td>
-  </tr>
-</table>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Danil767&theme=violet-punch&hide_border=%D0%9B%D0%9E%D0%96%D0%AC)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danil767)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
