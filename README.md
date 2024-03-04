@@ -55,11 +55,12 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Danil767&theme=violet-punch&hide_border=%D0%9B%D0%9E%D0%96%D0%AC)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danil767)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
+<a href="https://github.com/Danil767/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Danil767" />
+</a>
+<a href="https://github.com/Danil767/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Danil767&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 
